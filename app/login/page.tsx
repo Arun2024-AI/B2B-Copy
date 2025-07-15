@@ -22,7 +22,7 @@ export default function LoginPage() {
     // Simulate API call
     setTimeout(() => {
       setIsLoading(false)
-      // Redirect would happen here after successful login
+      // Redirect would happen here after successful login                       
       alert("Login functionality would be implemented here")
     }, 1500)
   }
